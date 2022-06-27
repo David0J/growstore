@@ -508,6 +508,16 @@ ul {
 ---- CONTACT STYLE -----
 ========================
 */
+.contact-us {
+  color: #fee15b;
+}
+.contact-us:hover {
+  color: #016cd6;
+}
+
+
+
+
 .contact-content {
   border-bottom-left-radius: 8px;
   border-bottom-right-radius: 8px;
