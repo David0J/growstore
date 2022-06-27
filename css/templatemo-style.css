@@ -31,6 +31,7 @@ ul {
 }
 
 .primary-button a {
+  border-radius: 8px;
   display: inline-block;
   background-color: #fa5252;
   color: #fff;
@@ -318,6 +319,7 @@ ul {
 }
 
 .home-content .home-box-content {
+  border-radius: 8px;
   margin-top: 45px;
 	background-color: #455871;
 	position: relative;
