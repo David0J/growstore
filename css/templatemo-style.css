@@ -1170,3 +1170,10 @@ body.lb-disable-scrolling {
 .owl-carousel .owl-nav {
   display: none;
 }
+
+* {
+  cursor: url(../img/pickaxe.png), default;
+}
+a {
+  cursor: url(../img/pickaxea.png), default;
+}
